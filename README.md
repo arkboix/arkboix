@@ -20,13 +20,13 @@ If you are wondering, I am emacs years old
 
 ## Programs I use
 
-📷 - Kdenlive
-🖼️ - GNU Image Manipulation Program
-📝 - DOOM GNU Emacs
-🛜 - Firefox
-😺 - Kitty
-🪟 - Hyprland
-🎨 - Solarized (not a program lmao)
+- 📷 - Kdenlive
+- 🖼️ - GNU Image Manipulation Program
+- 📝 - DOOM GNU Emacs
+- 🛜 - Firefox
+- 😺 - Kitty
+- 🪟 - Hyprland
+- 🎨 - Solarized (not a program lmao)
 
 
 Before you ask, no.
