@@ -1,42 +1,21 @@
-# Hello People
-
-call me **Arkboi X**
-
-I use Linux and customize it for a living.
-I make github repositories that mostly don't work with other machines 😉
-
-## I use Arco Linux
-
-I also create bash scripts 🌈
-
-I don't know why, but I am shadowbanned from Reddit 😂
-I only use Free and Open Source software 😇
-
-**I make YouTube videos talking about cool linux stuff I find.** (Check it out)[https://youtube.com/@ArkboiX]
+# 💫 About Me:
+Hi.<br><br>🙃 Working On: dotfiles project<br>🤩 Linux User<br>😜 Hyprland WM<br><br>🫠 I like making bash scripts<br>🤭 I make youtube videos<br><br>😇 I am trying to use only free and open source software<br>
 
 
-If you are wondering, I am emacs years old
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8XA7MgVvYN) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ArkboiX) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arkboi.x@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arkboix&theme=solarized-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arkboix&theme=solarized-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arkboix&theme=solarized-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arkboix&theme=solarized-dark&no-frame=false&no-bg=true&margin-w=4)
 
-## Programs I use
+---
+[![](https://visitcount.itsvg.in/api?id=arkboix&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📷 - Kdenlive
-- 🖼️ - GNU Image Manipulation Program
-- 📝 - DOOM GNU Emacs
-- 🛜 - Firefox
-- 😺 - Kitty
-- 🪟 - Hyprland
-- 🎨 - Solarized (not a program lmao)
-
-
-Before you ask, no.
-
-# My Cool Hyprland Setup that I build from scratch
-
-![image](https://github.com/user-attachments/assets/d77b324d-d1d3-404e-bcda-581c4d0cbff2)
-![image](https://github.com/user-attachments/assets/6321ff0a-7782-4c28-91cf-38c671be606d)
-![image](https://github.com/user-attachments/assets/4cf2f075-a009-4c1c-a589-eb077cede685)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 arkboix/arkboix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
