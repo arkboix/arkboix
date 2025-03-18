@@ -23,6 +23,7 @@ Just another VRGin Lincox user™ crafting dotfiles, scripting unsanity, and bre
 - **$EDITOR** is `emacs sudoedit` because nano is illegal here.  
 - `.gitignore?` Never heard of it.  
 - QWERTY by day, Dvorak by struggle.  
+- I might eat you 
 
 ---
 
