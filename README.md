@@ -14,9 +14,12 @@ echo "Still a virgin, still using a tiling WM."
 ## Working On
 
 ``` shell
+if [[ "$came_already" == "true" ]]; then
+     echo "Sway Config"
+fi
+
 
 if [[ "$coming_soon" == "true" ]]; then
-    echo "Sway Config (deleting DOTFILES repo first)"
     echo "Waybar Dock"
 fi
 
